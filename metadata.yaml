@@ -1,0 +1,30 @@
+_repo: The-Calling-of-Dan-Matthews_9314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Harold Bell
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '1146'
+    url: http://www.gutenberg.org/2009/agents/1146
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
+description: Dan Matthews becomes the new minister of the Midwestern town of Corinth,
+  and the peaceful town experiences controversy when the town's new nurse comes to
+  the aid of an outcast woman after her suicide attempt.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Ozark Mountains -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- !lcsh 'Clergy -- Fiction'
+- GITenberg
+title: The Calling of Dan Matthews
+url: http://www.gutenberg.org/ebooks/9314
